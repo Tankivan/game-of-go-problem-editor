@@ -1,0 +1,12 @@
+C:\Users\Иван\source\repos\go_test\go_test_second\bin\Release\go_test_second.exe.config
+C:\Users\Иван\source\repos\go_test\go_test_second\bin\Release\go_test_second.exe
+C:\Users\Иван\source\repos\go_test\go_test_second\bin\Release\go_test_second.pdb
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.Form1.resources
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.Form2.resources
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.Properties.Resources.resources
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.csproj.GenerateResource.cache
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.csproj.CoreCompileInputs.cache
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.exe
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.pdb
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.csprojAssemblyReference.cache
+C:\Users\Иван\source\repos\go_test\go_test_second\obj\Release\go_test_second.Form3.resources
